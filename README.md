@@ -1,6 +1,8 @@
 # Tatva Crud
 
 ## Documentation   Just go on [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/272118d941c880a2059f)
+
+## Database(postgresql): Download database schema [![Download from drive](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit)](https://drive.google.com/file/d/1jSrZNrqiLWYBfLvziQLK7oO6Dn9mUy_F/view?usp=sharing)
 ---
 ## Requirements
 
